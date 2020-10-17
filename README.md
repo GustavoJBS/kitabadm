@@ -1,5 +1,6 @@
   # Kitab Dashboard ADM
-Foi feito com o intuito de administrar um App de Áudiobooks, onde é responsável por inserir audiobooks ao banco de dados e assim fazer a consulta via App
+Foi feito com o intuito de administrar um App de Áudiobooks, onde é responsável por inserir audiobooks ao banco de dados e assim fazer a consulta via App.
+Nele também é possivel a visualização dos Usuários do App e A Lista de AudioBooks Cadastrados no Banco de Dados.
 <br>
 Foi usado React junto ao Firebase Storage e Realtime DataBase.
 
